@@ -1,0 +1,7 @@
+### Cryptographic Gameplay Integration
+
+Players can discover encrypted messages scattered throughout the game world.
+Deciphering these messages reveals hidden objectives, bonuses, or secret locations.
+
+Use various ciphers such as Caesar, Vigenére, and RSA to decrypt information.
+ The challenge level increases as players progress, requiring more complex decryption techniques.
